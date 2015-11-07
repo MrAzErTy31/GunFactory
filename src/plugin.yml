@@ -1,0 +1,8 @@
+name: GunFactory
+main: fr.mrazerty31.gunfactory.GunFactory
+author: MrAzErTy31
+version: 0.0.1
+commands:
+  gun:
+    description: Main command of the plugn.
+    usage: /gun <args>
